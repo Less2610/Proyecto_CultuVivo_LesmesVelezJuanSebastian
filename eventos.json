@@ -1,0 +1,14 @@
+{
+    "123": {
+        "codigo": "123",
+        "nombre": "prueba",
+        "fecha": "10/10/1010",
+        "hora": "10:10",
+        "lugar": "aca",
+        "capacidad": 5,
+        "artistas": [
+            "1020302546"
+        ],
+        "asistentes": {}
+    }
+}
